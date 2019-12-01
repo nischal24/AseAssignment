@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "assignment", "assignment\assignment.csproj", "{5146C65E-56A6-41F7-AA58-F03BD5785232}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graphics.UnitTest", "Graphics.UnitTest\Graphics.UnitTest.csproj", "{EFFA238B-36A8-4150-9406-39ECDB4567B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5146C65E-56A6-41F7-AA58-F03BD5785232}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5146C65E-56A6-41F7-AA58-F03BD5785232}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5146C65E-56A6-41F7-AA58-F03BD5785232}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5146C65E-56A6-41F7-AA58-F03BD5785232}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFFA238B-36A8-4150-9406-39ECDB4567B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFFA238B-36A8-4150-9406-39ECDB4567B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFFA238B-36A8-4150-9406-39ECDB4567B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFFA238B-36A8-4150-9406-39ECDB4567B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72606438-37D9-4A66-B959-F6CFAE85C356}
+	EndGlobalSection
+EndGlobal

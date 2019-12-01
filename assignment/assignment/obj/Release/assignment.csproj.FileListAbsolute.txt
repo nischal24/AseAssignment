@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\assignment\assignment\bin\Release\assignment.exe.config
+C:\Users\user\source\repos\assignment\assignment\bin\Release\assignment.exe
+C:\Users\user\source\repos\assignment\assignment\bin\Release\assignment.pdb
+C:\Users\user\source\repos\assignment\assignment\obj\Release\assignment.Form1.resources
+C:\Users\user\source\repos\assignment\assignment\obj\Release\assignment.Properties.Resources.resources
+C:\Users\user\source\repos\assignment\assignment\obj\Release\assignment.csproj.GenerateResource.cache
+C:\Users\user\source\repos\assignment\assignment\obj\Release\assignment.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\assignment\assignment\obj\Release\assignment.exe
+C:\Users\user\source\repos\assignment\assignment\obj\Release\assignment.pdb

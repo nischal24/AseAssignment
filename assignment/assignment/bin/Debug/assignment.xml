@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>assignment</name>
+    </assembly>
+    <members>
+        <member name="M:assignment.Form1.loadToolStripMenuItem_Click(System.Object,System.EventArgs)">
+            <summary>
+            Open,read and display the text file selected by user on clicking load menu item
+            </summary>
+        </member>
+        <member name="M:assignment.Form1.saveToolStripMenuItem_Click(System.Object,System.EventArgs)">
+            <summary>
+            .Saves or overWrites  the text file loaded by the user on cliking save menu item. 
+            </summary>
+        </member>
+        <member name="M:assignment.Form1.exitToolStripMenuItem_Click(System.Object,System.EventArgs)">
+            <summary>
+            Closes the application
+            </summary>
+        </member>
+        <member name="M:assignment.Form1.clear_Click(System.Object,System.EventArgs)">
+            <summary>
+            clears the panel by refreshing the panel
+            </summary>
+        </member>
+        <member name="M:assignment.Form1.reset_Click(System.Object,System.EventArgs)">
+            <summary>
+            resets the position of the cursor
+            displays message 'points has been reseted' in the message box
+            </summary>
+        </member>
+        <member name="M:assignment.Form1.textClear_Click(System.Object,System.EventArgs)">
+            <summary>
+            clears the text and displays message 'text has been cleared'
+            </summary>
+        </member>
+        <member name="M:assignment.Form1.Execute_Click(System.Object,System.EventArgs)">
+             <summary> 
+            this code check commannd line by line and executes them 
+             </summary>
+        </member>
+        <member name="M:assignment.Form1.save_Click(System.Object,System.EventArgs)">
+            <summary>
+            saves the text file in the desired location through opening dialogue box 
+            </summary>
+        </member>
+        <member name="M:assignment.Form1.panel_Paint(System.Object,System.Windows.Forms.PaintEventArgs)">
+            <summary>
+            sets panel background color to light blue
+            </summary>
+        </member>
+        <member name="M:assignment.Form1.run_Click(System.Object,System.EventArgs)">
+            <summary>
+            this code is used reads text from textbox and validates them by sending the data through valid method in ValidateCode class
+            once validated return value is checked for command if found code is executed 
+            if command is not found catch block is executed
+            </summary>
+        </member>
+        <member name="F:assignment.Form1.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:assignment.Form1.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:assignment.Form1.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:assignment.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:assignment.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:assignment.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:assignment.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>

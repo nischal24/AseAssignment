@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\assignment\Graphics.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\user\source\repos\assignment\Graphics.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\user\source\repos\assignment\Graphics.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\user\source\repos\assignment\Graphics.UnitTest\bin\Debug\Graphics.UnitTest.dll
+C:\Users\user\source\repos\assignment\Graphics.UnitTest\bin\Debug\Graphics.UnitTest.pdb
+C:\Users\user\source\repos\assignment\Graphics.UnitTest\bin\Debug\assignment.exe
+C:\Users\user\source\repos\assignment\Graphics.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\user\source\repos\assignment\Graphics.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\user\source\repos\assignment\Graphics.UnitTest\bin\Debug\assignment.pdb
+C:\Users\user\source\repos\assignment\Graphics.UnitTest\bin\Debug\assignment.exe.config
+C:\Users\user\source\repos\assignment\Graphics.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\user\source\repos\assignment\Graphics.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\user\source\repos\assignment\Graphics.UnitTest\obj\Debug\Graphics.UnitTest.csprojAssemblyReference.cache
+C:\Users\user\source\repos\assignment\Graphics.UnitTest\obj\Debug\Graphics.UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\assignment\Graphics.UnitTest\obj\Debug\Graphics.UnitTest.csproj.CopyComplete
+C:\Users\user\source\repos\assignment\Graphics.UnitTest\obj\Debug\Graphics.UnitTest.dll
+C:\Users\user\source\repos\assignment\Graphics.UnitTest\obj\Debug\Graphics.UnitTest.pdb
