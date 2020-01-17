@@ -41,7 +41,7 @@ namespace assignment
         private void saveToolStripMenuItem_Click(object sender, EventArgs e)
         {
             SaveFileDialog save = new SaveFileDialog();
-            save.Title = "Save";
+            save.Title = "Nischal Save Dialog box";
             save.Filter = "Text Files(*.txt)|*.txt| All Files(*.*)|*.*";
 
             if (save.ShowDialog() == System.Windows.Forms.DialogResult.OK)
@@ -155,7 +155,7 @@ namespace assignment
         private void load_Click(object sender, EventArgs e)
         {
             OpenFileDialog load = new OpenFileDialog();     //opens dialogue box
-            load.Title = "Load.";//dialogue box title
+            load.Title = "Nischal open dialog box .";//dialogue box title
             load.Filter = "Text Files(*.txt)|*.txt| All Files(*.*)|*.*";      // filters the file to be shown
 
             if (load.ShowDialog() == DialogResult.OK)      // checks if ok is clikced in dialougue box
