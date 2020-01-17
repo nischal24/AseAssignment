@@ -36,7 +36,7 @@ namespace assignment
                   
                     }
                 }
-                if (sText[0].ToUpper() == "DRAWTO")
+                if (sText[0].ToUpper() == "DRAWTO")// method that changes character from lower case to upper case .
                 {
                     if (sText.Length == 3)
                     {
@@ -55,7 +55,7 @@ namespace assignment
                     }
                 }
 
-                if (sText[0].ToUpper() == "RECTANGLE")
+                if (sText[0].ToUpper() == "RECTANGLE")//method that changes character from lower case to upper case .
                 {
                     if (sText.Length == 3 )
                     {
@@ -73,7 +73,7 @@ namespace assignment
                         MessageBox.Show("Invalid Commmand");// displays message box
                     }
                 }
-                if (sText[0].ToUpper() == "TRIANGLE")
+                if (sText[0].ToUpper() == "TRIANGLE")method that changes character from lower case to upper case .
                 {
                     if (sText.Length == 4)
                     {
