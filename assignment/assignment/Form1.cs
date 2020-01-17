@@ -24,7 +24,7 @@ namespace assignment
         private void loadToolStripMenuItem_Click(object sender, EventArgs e)
         {
             OpenFileDialog load = new OpenFileDialog();
-            load.Title = "Load.";
+            load.Title = "Nischal open dialog box .";
             load.Filter = "Text Files(*.txt)|*.txt| All Files(*.*)|*.*";
 
             if (load.ShowDialog() == DialogResult.OK)
