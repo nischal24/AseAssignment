@@ -74,7 +74,7 @@ namespace assignment
             }
             else
             {
-                MessageBox.Show("Triangle cannot be formed");
+                MessageBox.Show("Triangle cannot be formed");//pop up message should be displayed
             }
         }
     }
